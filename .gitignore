@@ -1,0 +1,14 @@
+/Test2*.iml
+/Test2.gradle
+/Test2/local.properties
+/Test2/.idea/caches
+/Test2/.idea/libraries
+/Test2/.idea/modules.xml
+/Test2/.idea/workspace.xml
+/Test2/.idea/navEditor.xml
+/Test2/.idea/assetWizardSettings.xml
+/Test2/.DS_Store
+/Test2/build
+/Test2/captures
+/Test2.externalNativeBuild
+/Test2.cxx
